@@ -1,1 +1,9 @@
----  layout: slide  title: "Welcome to our second slide!"  ---  Always has been  Use the left arrow to go back!
+---
+layout: slide
+title: "Welcome to my second slide!"
+---
+
+What do you call a cow with no legs?
+Ground beef.
+
+Use the left arrow to go back!
